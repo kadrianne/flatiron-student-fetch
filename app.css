@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400;700&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: antiquewhite;
+}
+
+.students {
+    display: flex;
+}
+
+.card {
+    background-color: white;
+    margin: 10px;
+    padding: 0 20px 20px 20px;
+    width: 200px;
+    /* height: 250px; */
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+li {
+    margin-left: 20px;
+}
+
+button {
+    margin: 2px;
+    color: crimson;
+}

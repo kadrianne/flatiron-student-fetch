@@ -1,0 +1,4 @@
+{
+    "/students": "/students?_embed=languages",
+    "/students/:id": "/students/:id?_embed=languages"
+}
